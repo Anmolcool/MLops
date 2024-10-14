@@ -1,2 +1,0 @@
-this is 2nd file for git
-changes made to check
